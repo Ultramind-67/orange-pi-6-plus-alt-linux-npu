@@ -4,11 +4,13 @@
   <rect width="1200" height="560" fill="#f1f5f9"/>
   <text x="64" y="80" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#0f172a">Остался ли Alt Linux после пересадки ядра?</text>
   <text x="64" y="126" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#475569">Да. Просто теперь под капотом слой, который реально умеет включать NPU.</text>
-  <rect x="180" y="172" width="840" height="80" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
-  <text x="242" y="224" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#1e3a8a">Alt Linux user-space: пакеты, systemd, apt/rpm, окружение</text>
-  <rect x="180" y="272" width="840" height="80" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
-  <text x="296" y="324" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#14532d">Vendor BSP kernel 6.6-cix: питание, IRQ, DMA, NPU</text>
-  <rect x="180" y="372" width="840" height="80" rx="12" fill="#fee2e2" stroke="#dc2626" stroke-width="3"/>
-  <text x="310" y="424" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#7f1d1d">Orange Pi 6 Plus: CIX P1 + Zhouyi/AIPU</text>
-  <text x="64" y="510" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Не Франкенштейн. Обычная ARM-реальность.</text>
+  <rect x="140" y="168" width="920" height="92" rx="12" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+  <text x="600" y="206" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#1e3a8a">Alt Linux user-space</text>
+  <text x="600" y="238" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#1e3a8a">пакеты, systemd, apt/rpm, окружение</text>
+  <rect x="140" y="284" width="920" height="92" rx="12" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
+  <text x="600" y="322" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#14532d">Vendor BSP kernel 6.6-cix</text>
+  <text x="600" y="354" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" fill="#14532d">питание, IRQ, DMA, NPU</text>
+  <rect x="140" y="400" width="920" height="82" rx="12" fill="#fee2e2" stroke="#dc2626" stroke-width="3"/>
+  <text x="600" y="452" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#7f1d1d">Orange Pi 6 Plus: CIX P1 + Zhouyi/AIPU</text>
+  <text x="64" y="524" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#0f172a">Не Франкенштейн. Обычная ARM-реальность.</text>
 </svg>
