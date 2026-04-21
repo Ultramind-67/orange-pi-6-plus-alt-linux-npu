@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Мем: ResNet50 распознал ice bear</title>
+  <desc id="desc">Финальная карточка с успешным запуском NPU и результатом классификации ice bear.</desc>
+  <rect width="1200" height="520" fill="#ecfeff"/>
+  <rect x="56" y="52" width="1088" height="416" rx="22" fill="#ffffff" stroke="#0891b2" stroke-width="4"/>
+  <text x="96" y="126" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#0f172a">Финальный босс побеждён</text>
+  <rect x="96" y="166" width="1008" height="188" rx="12" fill="#082f49"/>
+  <text x="132" y="222" font-family="Menlo, Consolas, monospace" font-size="27" fill="#a7f3d0">npu: noe_init_context success</text>
+  <text x="132" y="268" font-family="Menlo, Consolas, monospace" font-size="27" fill="#a7f3d0">npu: noe_load_graph success</text>
+  <text x="132" y="314" font-family="Menlo, Consolas, monospace" font-size="27" fill="#a7f3d0">npu: noe_create_job success</text>
+  <text x="96" y="410" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#155e75">ResNet50: "ice bear"</text>
+  <text x="402" y="410" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#0f172a">Alt Linux + CIX kernel + NPU = живёт.</text>
+</svg>
